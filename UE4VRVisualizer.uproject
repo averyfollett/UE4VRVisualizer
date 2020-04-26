@@ -7,10 +7,15 @@
 		{
 			"Name": "SoundVisualizations",
 			"Enabled": true
+		},
+		{
+			"Name": "GoogleVRHMD",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"PS4",
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"Android"
 	]
 }
